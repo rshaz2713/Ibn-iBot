@@ -1,8 +1,6 @@
 # Ibn iBot
 
-UPDATED 2026-09-08
-
-> Historical Project - Developed and operated during 2020-2021. **No longer maintained.**
+> UPDATED 2026-09-08 - Developed and operated during 2020-2021. **No longer maintained.**
 
 Ibn iBot was a Java Discord automoderation bot I developed in high school for the **Muslim Gamers' League (MGL)**, a Discord community with more than 4,000 members at the time. I began building Ibn iBot shortly after taking AP Computer Science A. It became my first substantial independent software project and my first experience building, deploying, and operating software for real users.  
 
