@@ -24,6 +24,12 @@ The bot was built using **Java and the Java Discord API (JDA)** and deployed as 
 - **May 2023** - Preserved source code uploaded to GitHub.
 - **September 2026** - The repo was revitalized for public presentation, including writing this README and removal of a defunct Discord OAuth token.
 
+## Why Ibn iBot?
+
+As MGL grew, staff could not monitor a large Discord community around the clock. Ibn iBot automated common moderation tasks and provided staff with tools for responding to incidents. The bot monitored messages for unwanted content, including unsolicited links, prohibited language, and unwanted `@everyone` / `@here` pings. It also provided moderation commands for staff, saving time when using moderation tools (such as timeouts, strikes, kicks, bans).
+
+During one incident involving a compromised administrator account, when the server was "nuked" by a hacker, Ibn iBot helped suppress more than **200 virus links** that were sent into the community via a malicious webhook.
+
 ## Features
 
 ### Automated Moderation
